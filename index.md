@@ -35,8 +35,8 @@ img_logo: /assets/img/logo-dark-transparent.png
 </div>
 ___
 <div style="padding-bottom: 12px" class="title-tagline">Raising the bar.</div>
-<div class="text-body">
-The performance team at the <span style="color:#ffcc00; font-weight:bold">Sports Trauma & Applied Research Lab</span> conducts research focused on the health & performance of team sport athletes, all the way from evaluation to optimization.
+<div class="text-dark" style="background-color: #f0f0f0; padding: 24px; border-radius: 16px 16px 0px 0px; border: 4px solid #ffcc00">
+The performance team at the <span style="font-weight:bold">Sports Trauma & Applied Research Lab</span> conducts research focused on the health & performance of team sport athletes, all the way from evaluation to optimization.
 </div>
 <br>
 <table>
